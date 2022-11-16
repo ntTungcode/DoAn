@@ -1,0 +1,56 @@
+name: monkey_shop_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  dots_indicator: ^2.1.0
+  get_storage: ^2.0.3
+  flutter_iconly: ^1.0.2
+  firebase_core: ^2.2.0
+  cloud_firestore: ^4.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  uses-material-design: true
+
+  # Để thêm nội dung vào ứng dụng của bạn, hãy thêm một phần nội dung, như sau:
+  assets:
+    - assets/
+    - assets/images/
+    # - images/a_dot_ham.jpeg
+
+
+
+  fonts:
+     - family: Lato
+       fonts:
+         - asset: assets/fonts/Lato-Regular.ttf
+         - asset: assets/fonts/Lato-Bold.ttf
+           weight: 700
+     - family: Anton
+       fonts:
+         - asset: assets/fonts/Anton-Regular.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+

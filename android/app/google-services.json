@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377932589643",
+    "project_id": "monkey-shop-8f265",
+    "storage_bucket": "monkey-shop-8f265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377932589643:android:299c37f0dec6e909b33bce",
+        "android_client_info": {
+          "package_name": "com.example.monkey_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377932589643-cvnd3godol45o82d7kh5emjbqdb5jjjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLYZps3N3yaZZMHMX88NqyI9266740daM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377932589643-cvnd3godol45o82d7kh5emjbqdb5jjjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
